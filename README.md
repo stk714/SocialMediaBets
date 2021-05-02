@@ -4,7 +4,7 @@
 ---
 
 ## Description
-We as human species have entered a new generation where information is so efficiently and quickly exchanged that we can move prices of a companies. With the expansion of social media, and the amount information that can be disseminated in the span of a few minutes, we decided test our thesis of using alternative indicators as well as traditional measures such as dual moving crossover average. In this tool we tested to see if we can use social sentiment to make investment decisions. 
+We as human species have entered a new generation where information is so efficiently and quickly exchanged that we can move prices of companies. With the expansion of social media, and the amount information that can be disseminated in the span of a few minutes, we decided test our thesis of using alternative indicators as well as traditional measures such as dual moving crossover average. In this tool we tested to see if we can use social sentiment to make investment decisions. 
 
 ## Key questions 
 
