@@ -16,18 +16,25 @@ We as human species have entered a new generation where information is so effici
 Use alternative trading indicators and machine learning to find alpha strategies
 
 ## Installation Guides / Import libraries and dependencies
-import os
-import requests
-import json
-import pandas as pd
-from datetime import date
-from dotenv import load_dotenv
-from pathlib import Path
-import numpy as np
-import hvplot.pandas
-import matplotlib.pyplot as plt
-%matplotlib inline
-import seaborn as sns
+import os,
+import requests,
+import json,
+import pandas as pd,
+from datetime import date,
+from dotenv import load_dotenv,
+from pathlib import Path,
+import numpy as np,
+import hvplot.pandas,
+import matplotlib.pyplot as plt,
+%matplotlib inline,
+import seaborn as sns,
+from sklearn import svm,
+from sklearn.preprocessing import StandardScaler,
+from pandas.tseries.offsets import DateOffset,
+from sklearn.metrics import classification_report,
+from sklearn.linear_model import LogisticRegression,
+from sklearn.tree import DecisionTreeClassifier,
+from sklearn.ensemble import AdaBoostClassifier
 
 ## Sources / Inputs
 * API from YahooFinance for historical prices for ticker
